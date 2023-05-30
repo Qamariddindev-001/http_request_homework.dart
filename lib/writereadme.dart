@@ -9,7 +9,7 @@ void main(List<String> args) {
     if (lines[i].contains(RegExp('^Task [0-9]+:'))) {
       print(lines[i]);
       File f = File('README.md');
-      f.writeAsStringSync("# ${lines[i]}\n## ${lines[i + 1]}\n", mode: FileMode.append);
+      f.writeAsStringSync("# ${lines[i]}\n### ${lines[i + 1]}\n", mode: FileMode.append);
     }
   }
 }

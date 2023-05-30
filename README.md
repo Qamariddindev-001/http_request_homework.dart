@@ -1,14 +1,14 @@
 # Task 1: Retrieve Random User's Full Name as a Map
-## Create a Dart function named getFullName that makes an HTTPS request to the Random User API, retrieves a random user's data, and returns their full name as a map with the key "fullName".
+### Create a Dart function named getFullName that makes an HTTPS request to the Random User API, retrieves a random user's data, and returns their full name as a map with the key "fullName".
 # Task 2: Retrieve Random User's Gender as a Map
-## Create a Dart function named getGender that makes an HTTPS request to the Random User API, retrieves a random user's data, and returns their gender as a map with the key "gender".
+### Create a Dart function named getGender that makes an HTTPS request to the Random User API, retrieves a random user's data, and returns their gender as a map with the key "gender".
 # Task 3: Retrieve Random User's Email as a Map
-## Create a Dart function named getEmail that makes an HTTPS request to the Random User API, retrieves a random user's data, and returns their email as a map with the key "email".
+### Create a Dart function named getEmail that makes an HTTPS request to the Random User API, retrieves a random user's data, and returns their email as a map with the key "email".
 # Task 4: Retrieve Random User's Date of Birth as a Map
-## Create a Dart function named getDateOfBirth that makes an HTTPS request to the Random User API, retrieves a random user's data, and returns their date of birth as a map with the key "dateOfBirth".
+### Create a Dart function named getDateOfBirth that makes an HTTPS request to the Random User API, retrieves a random user's data, and returns their date of birth as a map with the key "dateOfBirth".
 # Task 5: Retrieve Random User's Phone Number as a Map
-## Create a Dart function named getPhoneNumber that makes an HTTPS request to the Random User API, retrieves a random user's data, and returns their phone number as a map with the key "phoneNumber".
+### Create a Dart function named getPhoneNumber that makes an HTTPS request to the Random User API, retrieves a random user's data, and returns their phone number as a map with the key "phoneNumber".
 # Task 6: Retrieve Random User's Location as a Map
-## Create a Dart function named getLocation that makes an HTTPS request to the Random User API, retrieves a random user's data, and returns their location (including city, state, and country) as a map with the key "location".
+### Create a Dart function named getLocation that makes an HTTPS request to the Random User API, retrieves a random user's data, and returns their location (including city, state, and country) as a map with the key "location".
 # Task 7: Retrieve Random User's Profile Picture as a Map
-## Create a Dart function named getProfilePicture that makes an HTTPS request to the Random User API, retrieves a random user's data, and returns their profile picture URL as a map with the key "profilePicture".
+### Create a Dart function named getProfilePicture that makes an HTTPS request to the Random User API, retrieves a random user's data, and returns their profile picture URL as a map with the key "profilePicture".
